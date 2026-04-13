@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a2e,80:0d2137,100:0d1117&height=220&section=header&text=Charith%20Gunarathna&fontSize=55&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&desc=Software%20Engineering%20Student%20%26%20Developer%20%7C%20AI%2C%20Web%20%26%20Cloud%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descColor=38BDF8&descAlignY=63" width="100%"/>
+# 👨‍💻 Hi there, I'm Charith Gunarathna! 👋
 
-</div>
+### Software Engineering Student & Full-Stack Developer | AI, Web & Cloud 🇱🇰
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+innovative+web+%26+mobile+apps+%F0%9F%9A%80;MERN+Stack+%7C+Python+%7C+Java+%7C+AI;Solving+problems+through+clean+code+%E2%9C%A8;Always+learning+%E2%86%92+always+building+%F0%9F%92%BB)](#)
-
-</div>
+**Building innovative web & mobile apps 🚀 | Solving problems through clean code ✨**
 
 <br/>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-0ea5e9?style=for-the-badge&labelColor=1e293b&color=0ea5e9)](#)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/charithgunarathna/)&nbsp;
@@ -103,53 +97,9 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charithgunarathna/charithgunarathna/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charithgunarathna/charithgunarathna/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/charithgunarathna/charithgunarathna/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=charithgunarathna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&rank_icon=github&cache_seconds=86400" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=charithgunarathna&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10&cache_seconds=86400" height="175" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithgunarathna&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&langs_count=8&v=2" height="160" alt="Top Languages"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=charithgunarathna&theme=tokyonight&hide_border=true&layout=compact&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&v=10" height="160" alt="WakaTime Stats"/>
-</div>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=4000&pause=1000&color=94A3B8&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=50&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.+%E2%80%94+Cory+House;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;First%2C+solve+the+problem.+Then%2C+write+the+code." alt="Tech Quotes"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charithgunarathna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&area_color=0c4a6e&radius=6&custom_title=Charith%27s%20Contribution%20Graph&cache_seconds=86400" width="97%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=charithgunarathna&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -180,9 +130,5 @@ I design and develop dynamic Websites, Mobile Applications, Desktop Software, an
 <br/><br/>
 
 *Always happy to talk systems design, AI innovations, or full-stack engineering.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c1a2e,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
