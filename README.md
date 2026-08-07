@@ -19,10 +19,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-0ea5e9?style=for-the-badge&labelColor=1e293b&color=0ea5e9)](#)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Website-0ea5e9?style=for-the-badge&labelColor=1e293b&color=0ea5e9)](https://charithwannisinha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/charithwannisingha/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:your-email@gmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1e293b)](https://twitter.com/charithwannisingha)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1e293b)](https://x.com/charith_dev)
 
 </div>
 
